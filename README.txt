@@ -11,3 +11,8 @@ Haha, no.
 ...
 
 In all seriousness, I don't know a thing about linux or how it works but if you really want to port this to linux, either dig through my Marcher repo or, if you want to do your sanity a favour, write your own. My codebase is a mess at the moment.
+
+Helper functions and variables:
+
+Time - float, number of seconds passed since program start.
+SetDiffuse(vec3); - sets the surface colour/diffuse.
